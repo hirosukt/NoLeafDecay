@@ -1,0 +1,7 @@
+name: NoLeafDecay
+version: '${version}'
+main: hirosuke.noleafdecay.Noleafdecay
+api-version: 1.16
+prefix: NFD
+authors: [ Hirosuke ]
+description: Disable natural leaf decays.
